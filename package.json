@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pr0100smile/AJSHW.git"
+    "url": "git+https://github.com/pr0100smile/AJSHWB.git"
   },
   "keywords": [
     "game"
@@ -18,9 +18,9 @@
   "author": "Dmitriy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pr0100smile/AJSHW/issues"
+    "url": "https://github.com/pr0100smile/AJSHWB/issues"
   },
-  "homepage": "https://github.com/pr0100smile/AJSHW#readme",
+  "homepage": "https://github.com/pr0100smile/AJSHWB#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
